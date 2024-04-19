@@ -1,2 +1,2 @@
 # liquibase
-teste liquibase
+teste liquibase commit
